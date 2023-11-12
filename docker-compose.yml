@@ -27,7 +27,8 @@ services:
     environment:
       - POSTGRES_DB=devdb
       - POSTGRES_USER=devuser
-      - POSTGRES_PASSWORD=changeme
+      - POSTGRES_PASSWORD=Az-Pol1918
 
 volumes:
   dev-db-data:
+  
